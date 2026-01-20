@@ -14,7 +14,7 @@ int menu(void)
 {
     int choice;
 
-    system("cls");  // use "clear" on Linux/Mac
+    system("cls");  
 
     printf("===== MAIN MENU =====\n");
     printf("1. First Calculation\n");
